@@ -5,7 +5,7 @@ export PATH=$PATH:/usr/local/go/bin <br />
 go version <br />
 
 --------------------------------------------------------------  <br />
-###run tx madara###
+###run tx madara### <br />
 git clone https://github.com/andremax/tx-madara.git <br />
 cd tx-madara <br />
 nano rpc.json ( replace url di rpc.json ) <br />
