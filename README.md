@@ -12,3 +12,7 @@ nano rpc.json ( replace url di rpc.json ) <br />
 go mod tidy <br />
 screen -S tx <br />
 go run main.go <br />
+ctrl a+d (min screen) <br />
+----------------
+screen -ls (look screen)
+screen -x idxxxx (masuk screen)
