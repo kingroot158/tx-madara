@@ -14,5 +14,5 @@ screen -S tx <br />
 go run main.go <br />
 ctrl a+d (min screen) <br />
 ----------------
-screen -ls (look screen)
+screen -ls (look screen) <br />
 screen -x idxxxx (masuk screen)
